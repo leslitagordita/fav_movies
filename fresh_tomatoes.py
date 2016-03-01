@@ -27,11 +27,9 @@ main_page_head = '''
         }
         .navbar {
             background-color: #f71423;
-
         }
         .navbar-inverse {
             background-image:none;
-            
         }
         .navbar-inverse .navbar-brand {
             color: #000000;
