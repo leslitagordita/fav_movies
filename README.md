@@ -3,9 +3,15 @@ Movie Trailer Website
 This website presents the top favorite movies of Leslie Salazar.
 
 Quick Start
+    First Method
+	1. Save fav_movies directory to your local environment.
+	2. Inside fav_movies directory, double click on fresh_tomatoes.html.
+    Second Method
+        1. Save fav_movies directory to your local environment.
+        2. Open up your terminal or command prompt and navigate to the 
+           fav_movies directory.
+        3. Run the following command, python entertainment_center.py
 
-1. Save fav_movies directory to your local environment
-2. Inside fav_movies directory, double click on fresh_tomatoes.html
 
 What’s Included
 	fav_movies/
