@@ -18,6 +18,7 @@ What’s Included
         |—- entertainment_center.py
         |—- fresh_tomatoes.html
         |—- fresh_tomatoes.py
+        |-- fresh_tomatoes.pyc
 		|—— images/
 		|	|—- atame.jpg
 		|	|—- cocagne.jpg
@@ -26,6 +27,7 @@ What’s Included
 		|	|—- paris.jpg
 		|	|—- velvet.jpg
 	        |—- media.py
+                |-- media.pyc
 	        |—- README.md
 
 Documentation
