@@ -20,6 +20,9 @@ main_page_head = '''
             padding-top: 80px;
             color:#000000;
         }
+        #cust_id {
+            display:table;
+        }
         #trailer .modal-dialog {
             margin-top: 200px;
             width: 640px;
@@ -46,6 +49,8 @@ main_page_head = '''
             height: 100%;
         }
         .movie-tile {
+            display: table-cell;
+            float: none;
             margin-bottom: 20px;
             padding-top: 20px;
         }
@@ -122,7 +127,7 @@ main_page_content = '''
         </div>
       </div>
     </div>
-    <div class="container">
+    <div class="container" id="cust_id">
       {movie_tiles}
     </div>
   </body>

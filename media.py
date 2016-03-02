@@ -2,17 +2,18 @@ import webbrowser
 
 
 class Movie(object):
-	"""This class provides a way to store movie related information
+    """
+    This class provides a way to store movie related information
 
-        Attributes:
-            VALID_RATINGS (str array): array of valid censorship ratings
+    Attributes:
+    VALID_RATINGS (str array): array of valid censorship ratings
 
         Args:
         title (str): Title.
         storyline (str): Plot synopsis of movie.
         poster_image_url (str): Poster image url.
         trailer_youtube_url (str): Youtube trailer url.
-        """
+    """
 
     VALID_RATINGS = ["G", "PG", "PG-13", "R"]
 
